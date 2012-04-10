@@ -8,7 +8,7 @@
   co = checkout
   df = diff --name-status
   dt = difftool 
-  lo = log -20 --graph --decorate --format=format:\"%C(yellow)%h%Creset %ad %C(bold blue)%an%Creset %s\" --date=local
+  lo = log -20 --graph --decorate --format=format:\"%C(bold yellow)%h%Creset %ad %C(bold blue)%an%Creset %s %C(bold green)%d%Creset\" --date=local
 [color]
   branch = auto
   diff = auto
