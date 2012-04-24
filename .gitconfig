@@ -3,6 +3,7 @@
 	email = mflorence@onetechnologies.net
 [alias]
   st = status
+  rmo = remote -v 
   ct = commit
   br = branch
   co = checkout
